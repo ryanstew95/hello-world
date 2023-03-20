@@ -1,2 +1,1 @@
-Hello
-Lovey Humans
+a little note to say hello to everyone
